@@ -1,6 +1,16 @@
-![image-20200920172159081](C:\Users\13652\AppData\Roaming\Typora\typora-user-images\image-20200920172159081.png)
+
 
 
 
 # 我就试试
+
+![image-20200920182117878](F:\Document\BlogTypora\Android刷机详解\img\image-20200920182117878.png)
+
+
+
+
+
+![image-20200920182125658](F:\Document\BlogTypora\Android刷机详解\img\image-20200920182125658.png)
+
+
 
